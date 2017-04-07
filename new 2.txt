@@ -1,0 +1,17 @@
+1 n/a and empty features for old products
+2 color data(dup, null, not appearing wrong color pallet)
+3 price must be equal in all pages
+4 price must be up to date(showing diff from the vendor)
+5-- filter data move to db
+6 similar products data(not available for all the products) pending
+7 related products(not available for all the products) pending
+8 top products(took products but not having them in general) no issue
+9 ratings(not available for all the products no issue
+10. other vendors price updation(along with the main no issue
+11. brand slugs 
+
+new pruducts  brand slugs
+ sql
+
+sp all
+price details
